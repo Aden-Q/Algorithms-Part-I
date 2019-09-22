@@ -1,3 +1,2 @@
 # Algorithms-Part-I
-Coursework
-
+Programming Assignments
